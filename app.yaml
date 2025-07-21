@@ -1,0 +1,4 @@
+name: python
+owner: test02
+package: '.'
+kind: wasmer.io/App.v0
